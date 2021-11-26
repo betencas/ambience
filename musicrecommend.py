@@ -4,7 +4,7 @@ import pandas as pd
 import streamlit as st
 from PIL import Image
 #DATAFRAME IMPORT & SUBSETS
-spotify_compact = pd.read_csv('c:/py/spotify_clean.csv')
+spotify_compact = pd.read_csv('https://raw.githubusercontent.com/betencas/ambience/main/spotify_clean.csv')
 
 ####IMAGE LINKS SECTION ##########
 sideheadimage = Image.open('c:/py/small.png')
