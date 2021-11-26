@@ -13,7 +13,9 @@ maintitleimage = Image.open('c:/py/header.jpg')
 
 ##### MAIN PAGE SECTION#######################
 
-st.title('Ambience© - The perfect sound for every situation.')
+#st.title('Ambience© - The perfect sound for every situation.')
+st.header('Ambience©: The Perfect Sound')
+st.header('for every situation.')
 
 st.image(maintitleimage)
 
