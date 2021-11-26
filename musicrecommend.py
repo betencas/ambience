@@ -7,7 +7,7 @@ from PIL import Image
 spotify_compact = pd.read_csv('https://raw.githubusercontent.com/betencas/ambience/main/spotify_clean.csv')
 
 ####IMAGE LINKS SECTION ##########
-sideheadimage = Image.open('c:/py/small.png')
+sideheadimage = Image.open('https://raw.githubusercontent.com/betencas/ambience/1def1a119e9c100327a22ab0c27b6e99416d5413/small.png')
 maintitleimage = Image.open('c:/py/header.jpg')
 ###### END IMAGE LINKS SECTION ##############
 
