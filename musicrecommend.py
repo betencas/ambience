@@ -8,7 +8,7 @@ spotify_compact = pd.read_csv('https://raw.githubusercontent.com/betencas/ambien
 
 ####IMAGE LINKS SECTION ##########
 sideheadimage = Image.open('https://raw.githubusercontent.com/betencas/ambience/1def1a119e9c100327a22ab0c27b6e99416d5413/small.png')
-maintitleimage = Image.open('c:/py/header.jpg')
+maintitleimage = Image.open('https://github.com/betencas/ambience/raw/main/header.jpg')
 ###### END IMAGE LINKS SECTION ##############
 
 ##### MAIN PAGE SECTION#######################
